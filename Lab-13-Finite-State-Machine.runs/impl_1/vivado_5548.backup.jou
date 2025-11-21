@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Nov 21 10:14:47 2025
+# Process ID: 5548
+# Current directory: C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/Lab-13-Finite-State-Machine.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/Lab-13-Finite-State-Machine.runs/impl_1/top.vdi
+# Journal file: C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/Lab-13-Finite-State-Machine.runs/impl_1\vivado.jou
+# Running On        :ENG401862
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19044
+# Processor Detail  :Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+# CPU Frequency     :3408 MHz
+# CPU Physical cores:4
+# CPU Logical cores :4
+# Host memory       :17066 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19616 MB
+# Available Virtual :12547 MB
+#-----------------------------------------------------------
+source top.tcl -notrace

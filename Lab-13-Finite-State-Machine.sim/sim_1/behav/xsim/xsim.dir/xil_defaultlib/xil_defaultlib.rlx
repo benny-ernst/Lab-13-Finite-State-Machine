@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/Lab-13-Finite-State-Machine.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/binary.v,1763744262,verilog,,C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/dff.v,,binary,,,,,,,,
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/dff.v,1763740940,verilog,,C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/onehot.v,,dff,,,,,,,,
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/onehot.v,1763744626,verilog,,C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/top.v,,onehot,,,,,,,,
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/test.v,1763740940,verilog,,,,test,,,,,,,,
+C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/top.v,1763743604,verilog,,C:/Users/ECE230_46/Documents/GitHub/Lab-13-Finite-State-Machine/test.v,,top,,,,,,,,
